@@ -1,6 +1,16 @@
 # Natural ou Fake Natty? 
 > Woooow! Look at this 👀
 
+<img 
+    align=center 
+    margin=10 
+    width=300 
+    src="assets/capa_natty.png"
+    />
+
+<a href="output/Natty or not.pdf">ACESSE O PDF AQUI</a>
+
+
 No último desafio do Bootcamp Santander fui desafiada a produzir usando ferramentas de IA, algum tipo de material. Optei por novamente criar um e-book, visto que esse projeto teve bastante repercurssão em meu [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade/).
 O tema dessa vez foi a questão do abuso de substâncias para práticas de bodybuilding. Essa é uma realidade presente ainda na sociedade, e que precisa de um processo de conscientização dos indivíduos.
 Ainda que não seja o material mais perfeito que existe sobre o tema, fiquei satisfeita com o resultado final, uma vez que saúde e tecnologia são áreas que me chamam atenção.
